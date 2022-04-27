@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WinDev_Param>
+  <WD_AfficheException>
+    <Checksum>1126569739</Checksum>
+    <TimeStamp>20220220181610854</TimeStamp>
+    <MaximiseeOuverture>0</MaximiseeOuverture>
+    <PositionOuverture>577,348,1</PositionOuverture>
+    <TailleOuverture>748,336,120</TailleOuverture>
+    <DeltaLayout>0,0,120</DeltaLayout>
+  </WD_AfficheException>
+  <LOGIN_ID>2250758535390</LOGIN_ID>
+  <MDP_ID>1234</MDP_ID>
+</WinDev_Param>
